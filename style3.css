@@ -18,7 +18,7 @@ html,body{
 	position: absolute;
 	top: 50%;
 	left: 50%;
-	background-image: url(/img/ring-alt.svg);
+	background-image: url(img/ring-alt.svg);
 	width: 144px;
 	height: 144px;
 	margin: -72px 0 0 -72px;
