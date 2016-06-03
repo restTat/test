@@ -26,6 +26,7 @@ html,body{
 	background-position: center;
 	background-size: contain;
 	z-index: 10;
+	opacity: 0.7;
 }
 .mask{
 	position: absolute;
